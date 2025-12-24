@@ -1,8 +1,6 @@
 # React + Vite
 
-Help you add it to your resume/portfolio
-
-Help you add it to your resume/portfolio
+https://hsb-ini-14.github.io/testing-hosting/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
